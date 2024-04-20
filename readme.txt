@@ -1,7 +1,6 @@
 Steps to create masks from WSIs
 
 1. Clone repo.
-- git clone https://github.com/hwanglab/tcga_stroma_prediction.git
 
 2. Move to "tcga_stroma_prediction" directory
 
